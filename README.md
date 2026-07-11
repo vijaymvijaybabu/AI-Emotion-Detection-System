@@ -291,11 +291,12 @@ This project is licensed under the MIT License.
 
 🎓 MCA Student | AI & Machine Learning Engineer
 
-📧 Email: your-email@gmail.com
+📧 Email: vijaymvijaybabu@gmail.com
 
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/vijaymvijaybabu
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn: www.linkedin.com/in/manoharbabu25
+
 
 ---
 
